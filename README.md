@@ -1,11 +1,12 @@
-# 💱 Currency Converter Web App
+💱 Currency Converter Web App
 
 A simple and user-friendly currency converter built with **HTML**, **CSS**, and **JavaScript**, powered by the [CurrencyAPI](https://currencyapi.com/). This tool allows users to convert between currencies in real time with live exchange rates and dynamic country flags.
 
 Link of API used in this project: https://api.currencyapi.com/v3/latest?apikey=cur_live_R7PtG0Q4LtosFdF670JzAskQA2gy9zYg9tQkBVCJ
+
 Website rom where i pick this API: https://app.currencyapi.com/dashboard
 
-## 📁 Project Structure
+📁 Project Structure
 
 **File 1 - `codes.js`
 This file contains a **JavaScript object** that maps **currency codes (like USD, PKR, EUR)** to their respective **country codes** (like US, PK, FR).  
