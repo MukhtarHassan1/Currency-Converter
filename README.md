@@ -27,3 +27,7 @@ Validates input amount (defaults to 1 if empty or less than 1).
 Constructs the correct API URL based on selected currencies.
 Fetches and parses JSON data to extract the exchange rate.
 Calculates the converted value and displays it on the page.
+
+🔖 About the .nojekyll File
+The .nojekyll file included in this repository is an empty file used specifically to disable GitHub Pages' default Jekyll processing. GitHub Pages automatically attempts to build your site using Jekyll, which can sometimes interfere with static websites, especially when files or folders start with underscores (_).
+By adding .nojekyll, we explicitly instruct GitHub Pages to treat our repository as a pure static site without attempting any Jekyll-related transformations or builds.
